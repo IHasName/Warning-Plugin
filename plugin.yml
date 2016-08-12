@@ -1,0 +1,7 @@
+main: me.Stein.warningPlugin.main
+name: WarningPlugin
+version: 1.0
+author: MrStein
+
+commands:
+  warning:

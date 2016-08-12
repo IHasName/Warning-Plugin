@@ -1,0 +1,11 @@
+# Warning Plugin - by MrStein
+# Version: 1.0
+# warninglevel: 4 = Banned
+
+whenbanned: "Du wurdest mehr als drei mal verwarnt und wurdest dadurch gebannt!"
+
+warnings:
+  uuid:
+    playername: "name"
+    warninglevel: 1
+    lastby: "sender"
